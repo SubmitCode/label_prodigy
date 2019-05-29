@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.devcontainer/prodigy-1.8.2-cp35.cp36.cp37-cp35m.cp36m.cp37m-linux_x86_64.whl
